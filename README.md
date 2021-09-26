@@ -1,4 +1,4 @@
-# Quality Engineering Learnign Roadmap
+# Quality Engineering Learning Roadmap
 
 This repository holds public versions of the QE Learning Roadmap.  
 
